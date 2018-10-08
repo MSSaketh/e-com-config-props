@@ -1,9 +1,7 @@
 spring:
  application:
    name: product-catalog
-
  data:
- 
    mongodb:
      database: product-catalog
      host: localhost
